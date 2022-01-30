@@ -1,2 +1,2 @@
 # CS5691-Pattern-Recognition-and-Machine-Learning
-Assignments, Project done for the course CS5691 Jan-May 2022
+Assignments as part of the course CS5691 Jan-May 2022
